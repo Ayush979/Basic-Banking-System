@@ -20,5 +20,5 @@ Home Page > View all Users > Select and View one User > Transfer Money > Select 
  4:- Now disconnect Apache and mySQL server and then reconnect it.
  5:- Now open localhost/phpmyadmin and then add the required files there.
  6:- Now open the Index file.
- 7:- After the work don't forget to turn off the Apache and MySQL Servers.
+ 7:- After the work, don't forget to turn off the Apache and MySQL Servers.
  
