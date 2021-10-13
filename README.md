@@ -13,4 +13,8 @@ The Transaction table records all transfers happened along with their time. <br>
 The Flow of the Website: <br>
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.<br>
  <h3>Running of the Project </h3>
+ Steps are-
+ 1:- Install and Open Xampp Control Panel.
+ 2:- Connect Apache Server and mySQL Server.
+ 3:- If it does not connect at first then open Task Manager and disconnect mySQL id option from there.
  
